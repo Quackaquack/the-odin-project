@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+
+li {
+    background-color: aqua;
+    color: brown;
+}
+
+ul {
+    rotate: 180deg;
+}
+
+#lol {
+    rotate: 36deg;
+    color: chartreuse;
+}
